@@ -2,7 +2,7 @@
 
 ./configure \
 	--enable-shared \
-	--prefix=$(pwd)/../android/arm \
+	--prefix=$(pwd)/android/arm \
 	--disable-programs \
 	--disable-doc  \
 	--arch=arm \

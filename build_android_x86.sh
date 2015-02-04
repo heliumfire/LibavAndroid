@@ -2,7 +2,7 @@
 
 ./configure \
 	--enable-shared \
-	--prefix=$(pwd)/../android/x86 \
+	--prefix=$(pwd)/android/x86 \
 	--disable-programs \
 	--disable-doc  \
 	--arch=x86 \
